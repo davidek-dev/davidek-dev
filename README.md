@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mr-Cornflake
+- 👋 Hi, I’m David
 - 👀 I’m interested in different things starting from Web & Game Development to Machine Learning.
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
