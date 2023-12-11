@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/waistintimehere" target="blank"><img src="https://img.shields.io/twitter/follow/waistintimehere?logo=twitter&style=for-the-badge" alt="waistintimehere" /></a> </p>
 
-- 🔭 I’m currently working on [A small business site for my aunt](https://github.com/davidek-dev/danek-dental-lab)
+- 🔭 I’m currently working on [A small business site for my aunt](https://danekdentallab.netlify.app/)
 
 - 🌱 I’m currently learning **3D & Animation in Web with tree.js & GSAP and some reinforcement learning**
 
