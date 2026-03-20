@@ -28,7 +28,7 @@ Publicly accessible results of my enterprise and architectural work include:
 
 ### Selected Projects & Live Apps
 - **[Talkin' Secret](https://talkinsecret.com/):** Full-Stack band website featuring an international webshop. Key implementations include a custom encrypted chunk-streaming audio player, Contentful CMS & BandsInTown API integration for dynamic tour dates, bespoke GDPR-compliant cookie management for custom YouTube embeds, and serverless contact routing via Netlify.
-- **[ETT Predictor](https://ett.lennartbrandin.com):** Machine Learning project focused on time-series forecasting.
+- **[ETT Predictor](https://github.com/lennartbrandin/ett):** Machine Learning project focused on time-series forecasting.
 - **[RBW IT Support](https://rbw-itsupport.de):** Freelance web project delivering a clean, accessible frontend for an IT service provider.
 - **B.Sc. Thesis:** Collaborative Multi-Agent Reinforcement Learning for robotic control (ongoing).
 
