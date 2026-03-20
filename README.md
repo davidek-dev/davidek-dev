@@ -2,8 +2,12 @@
 
 I'm a Full-Stack Developer and Computer Science student at TU Hamburg (TUHH), focusing on React, TypeScript, and Machine Learning.
 
-### Professional Context
-My professional work over the past 5+ years has primarily taken place within closed Enterprise and B2B SaaS environments. Therefore, my GitHub profile reflects personal experiments, selected architectural prototypes, and academic projects, rather than my daily professional output in private repositories.
+### Professional Context & Enterprise References
+My professional work over the past 5+ years has primarily taken place within closed Enterprise and B2B SaaS environments, significantly for the Hamburg Port Authority (HPA). Therefore, my GitHub profile reflects personal experiments and academic projects, rather than my daily professional output in private repositories. 
+
+Publicly accessible results of my enterprise and architectural work include:
+- **Digitaler Zwilling Bundesfernstraßen:** [digitalerzwilling.bundesfernstrassen.de](https://digitalerzwilling.bundesfernstrassen.de/)
+- **homePORT Hamburg:** [homeport.hamburg](https://www.homeport.hamburg/)
 
 ### Tech Stack & Tools
 
@@ -22,10 +26,10 @@ My professional work over the past 5+ years has primarily taken place within clo
 - **AI & Machine Learning:** PyTorch, Reinforcement Learning
 - **DevOps & Architecture:** Git, Docker, CI/CD basics, Algolia, Stripe API
 
-
-### Selected Projects
-- **Talkin' Secret:** End-to-end encrypted chunk-streaming platform for secure file sharing.
-- **ETT Predictor:** Machine Learning project focused on time-series forecasting.
+### Selected Projects & Live Apps
+- **[Talkin' Secret](https://talkinsecret.com/):** Full-Stack band website featuring an international webshop. Key implementations include a custom encrypted chunk-streaming audio player, Contentful CMS & BandsInTown API integration for dynamic tour dates, bespoke GDPR-compliant cookie management for custom YouTube embeds, and serverless contact routing via Netlify.
+- **[ETT Predictor](https://ett.lennartbrandin.com):** Machine Learning project focused on time-series forecasting.
+- **[RBW IT Support](https://rbw-itsupport.de):** Freelance web project delivering a clean, accessible frontend for an IT service provider.
 - **B.Sc. Thesis:** Collaborative Multi-Agent Reinforcement Learning for robotic control (ongoing).
 
 ---
