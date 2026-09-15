@@ -3,7 +3,7 @@
 I'm a Full-Stack Developer and B.Sc. Computer Science graduate from TU Hamburg (TUHH), focusing on React, TypeScript, and Machine Learning.
 
 ### Professional Experience & Projects
-- **[SectorPi](https://sectorpi.de/):** Working Student in Product & Tech focusing on full-stack development and GenAI integration.
+- **[SectorPi](https://sectorpi.de/):** Product Engineer focusing on full-stack development and GenAI integration.
 - **[Plancraft](https://plancraft.com/):** Software Development Intern focused on quality assurance, React web development, and React Native mobile development.
 
 ### Professional Context & Enterprise References
