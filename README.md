@@ -3,7 +3,7 @@
 I'm a Full-Stack Developer and B.Sc. Computer Science graduate from TU Hamburg (TUHH), focusing on React, TypeScript, and Machine Learning.
 
 ### Professional Experience & Projects
-- **[SectorPi](https://sectorpi.de/):** Working Student in Product & Tech focusing on full-Stack development and GenAI integration.
+- **[SectorPi](https://sectorpi.de/):** Working Student in Product & Tech focusing on full-stack development and GenAI integration.
 - **[Plancraft](https://plancraft.com/):** Software Development Intern focused on quality assurance, React web development, and React Native mobile development.
 
 ### Professional Context & Enterprise References
@@ -22,11 +22,11 @@ Publicly accessible results of my enterprise and architectural work include:
   <img src="https://img.shields.io/badge/Astro-0C1120?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 - **Frontend:** React, Vue, Astro, Gatsby, Next.js, TypeScript, TailwindCSS
-- **Backend & Systems:** Python, C++, C, Haskell, Node.js, MySQL, Firebase
+- **Backend & Systems:** Python, C++, C, Haskell, Node.js, PostgreSQL, Firebase
 - **AI & Machine Learning:** PyTorch, Reinforcement Learning
 - **DevOps & Architecture:** Git, Docker, CI/CD basics, Algolia, Stripe API
 
